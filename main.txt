@@ -1,3 +1,4 @@
 Original code is here.
 Here is more code where I add a new table.
 Now here is the code for the database connection.
+adding additional line for the database connection to display properly.
